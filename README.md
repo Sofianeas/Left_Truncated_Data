@@ -77,6 +77,14 @@ runApp()
 
 - **Stacking Methods**
   - Implement meta-learning approaches  
-  - Compare different stacking algorithms  
+  - Compare different stacking algorithms
+
+## 📚 Theoretical Background
+
+- Lynden–Bell estimator for truncation correction
+- Nadaraya–Watson kernel regression adapted for truncated data
+- Neural networks with truncation-aware weighting
+- Stacking/ensemble methods for improved estimation
+
 
 
