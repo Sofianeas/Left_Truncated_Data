@@ -27,6 +27,7 @@ To run the application directly from this repository, execute the following comm
 if (!requireNamespace("shiny", quietly = TRUE)) install.packages("shiny")
 library(shiny)
 runGitHub("Left_Truncated_Data", "Sofianeas", ref = "main")
+```
 
 ### Running Locally
 
@@ -35,13 +36,15 @@ Alternatively, you can clone the repository and run it locally:
 ```bash
 # in your terminal
 git clone https://github.com/Sofianeas/Left_Truncated_Data.git
+```
 
 Then in R:
 
+```r
 # in R
 if (!requireNamespace("shiny", quietly = TRUE)) install.packages("shiny")
 library(shiny)
 setwd("path/to/Left_Truncated_Data")
 runApp()
-
+```
 
