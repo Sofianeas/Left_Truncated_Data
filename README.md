@@ -87,4 +87,9 @@ runApp()
 - Stacking/ensemble methods for improved estimation
 
 
+## ⚙️ System Requirements
+
+- R (version 4.0 or higher)  
+- RStudio (recommended)  
+- The following R packages: shiny, plotly, shinythemes, DT, bslib, ggplot2, reshape2, gridExtra, locfit, markdown, nnet, future.apply, compiler, xgboost, e1071, randomForest, earth, tidyr, dplyr
 
