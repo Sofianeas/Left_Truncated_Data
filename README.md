@@ -93,3 +93,11 @@ runApp()
 - RStudio (recommended)  
 - The following R packages: shiny, plotly, shinythemes, DT, bslib, ggplot2, reshape2, gridExtra, locfit, markdown, nnet, future.apply, compiler, xgboost, e1071, randomForest, earth, tidyr, dplyr
 
+## 📝 License
+This project is open-source and available under the MIT License.
+
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+## ✉️ Contact
+For questions or suggestions, please contact the repository owner.
