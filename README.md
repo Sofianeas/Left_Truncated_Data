@@ -48,3 +48,35 @@ setwd("path/to/Left_Truncated_Data")
 runApp()
 ```
 
+## 📊 Application Features
+
+- **Estimation Panel**
+  - Visualize the true function vs. estimated function  
+  - Adjust bandwidth parameters  
+  - Explore data before/after truncation  
+
+- **Performance Analysis**
+  - Study bias, variance, and MSE across sample sizes  
+  - Compare estimator performance  
+
+- **Bandwidth Study**
+  - Examine how bandwidth selection affects estimation  
+  - Find optimal bandwidth values  
+
+- **MISE Simulation**
+  - Analyze Mean Integrated Squared Error  
+  - Study convergence properties  
+
+- **Estimator Comparison**
+  - Compare NW, LOESS, splines, and local polynomial estimators  
+  - Visualize MSE differences  
+
+- **NN + NW Combination**
+  - Combine neural networks with kernel smoothing  
+  - Optimize combination parameters  
+
+- **Stacking Methods**
+  - Implement meta-learning approaches  
+  - Compare different stacking algorithms  
+
+
